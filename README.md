@@ -1,7 +1,7 @@
 # Javascript-
 Javascript Challenge Week 3
 
-![Employee Salary Website](/Javascript-/Assets/Rec.gif)
+![Employee Salary Website](./Assets/gif/Rec.gif)
 
 
     Project - Week 3 (Javacript) 
