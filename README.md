@@ -1,6 +1,8 @@
 # Javascript-
 Javascript Challenge Week 3
 
+![Employee Salary Website](/Javascript-/Assets/Rec.gif)
+
 
     Project - Week 3 (Javacript) 
 
@@ -20,4 +22,4 @@ Javascript Challenge Week 3
         B. Made sure to tree out code
         C. Added Notes to each section using this structure: //blank//
 
-![Employee Salary Website](/Javascript-/Assets/Rec.gif)
+Deployed Link: 
